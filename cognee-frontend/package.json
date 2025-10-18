@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@auth0/nextjs-auth0": "^4.6.0",
+    "@auth0/nextjs-auth0": "^4.10.0",
     "classnames": "^2.5.1",
     "culori": "^4.0.1",
     "d3-force-3d": "^3.0.6",
